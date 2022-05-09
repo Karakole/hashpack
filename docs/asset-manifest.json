@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hashpack/static/css/main.073c9b0a.css",
+    "main.js": "/hashpack/static/js/main.18e7df62.js",
+    "static/js/787.39fd3b39.chunk.js": "/hashpack/static/js/787.39fd3b39.chunk.js",
+    "index.html": "/hashpack/index.html",
+    "main.073c9b0a.css.map": "/hashpack/static/css/main.073c9b0a.css.map",
+    "main.18e7df62.js.map": "/hashpack/static/js/main.18e7df62.js.map",
+    "787.39fd3b39.chunk.js.map": "/hashpack/static/js/787.39fd3b39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.18e7df62.js"
+  ]
+}
